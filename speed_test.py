@@ -22,3 +22,6 @@ print("\n===== Network Speed Test Results =====")
 print(f"Download Speed: {convert_speed(download_speed)} Mbps")
 print(f"Upload Speed  : {convert_speed(upload_speed)} Mbps")
 print(f"Ping          : {ping_result:.2f} ms")
+
+if __name__ == "__main__":
+    run_speed_test()
