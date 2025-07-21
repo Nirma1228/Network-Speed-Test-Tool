@@ -12,5 +12,4 @@ This is a simple Python-based tool that checks internet speed using `speedtest-c
 
 Install the library with:
 
-```bash
 pip install speedtest-cli
